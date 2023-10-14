@@ -1,0 +1,2 @@
+tcpdump -i <interface> -s 0 -w capture.pcap host <target_ip>
+
